@@ -1,0 +1,3 @@
+[submodule "warpdemux/adapted"]
+	path = warpdemux/adapted
+	url = https://github.com/KleistLab/ADAPTed.git
