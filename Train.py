@@ -208,12 +208,4 @@ print('Finished Training')
 
 # # tcn
 # # torch.save(model.state_dict(), './model_saved/model_dataset3.pth')
-# # # cnn
-# # torch.save(model.state_dict(), './model_saved/cnn.pth')
-# # # cnn_lstm
-# # torch.save(model.state_dict(), './model_saved/cnn_lstm.pth')
-# # # transformer
-# # torch.save(model.state_dict(), './model_saved/transformer.pth')
-# # # quipunet
-# # torch.save(model.state_dict(), './model_saved/quipunet.pth')
 # writer.close()
