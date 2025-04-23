@@ -1,10 +1,10 @@
-![](C:\Users\uu\Desktop\own paper\ChatGPT Image 2025年4月22日 21_36_15 (1).png)
+![](https://github.com/LiyuanShu116/Demuxtrans/blob/main/figures/Demuxtrans.png)
 
 # **DemuxTrans**
 
 DemuxTrans is a deep learning framework for accurate barcode demultiplexing using raw nanopore sequencing signals. It combines Transformer and TCN architectures to effectively model both local and global dependencies within time-series data, enabling robust classification of barcoded sequences.
 
-![](C:\Users\uu\Desktop\own paper\图\大图1.png)
+![](https://github.com/LiyuanShu116/Demuxtrans/blob/main/figures/model.png)
 
 # **Project Structure**
 
